@@ -1,1 +1,1 @@
-hello, i am doing summer research at superman. 
+hello, i am doing summer research at spelman. 
