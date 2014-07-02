@@ -1,3 +1,7 @@
+#source("http://bioconductor.org/biocLite.R")
+#biocLite("flowViz")
+#biocLite("flowClust")
+#biocLite("flowCore")
 
 rm(list=ls())
 library(stringr)
