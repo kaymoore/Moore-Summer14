@@ -7,11 +7,11 @@ require(flowCore);  require(flowClust); require(flowViz)
 system("ls ../ ")
 mydate = '20120821'
 myp='By4743'
-#mypath='../fcs.DHRDHE'
+mypath='../fcs.DHRDHE'
 #mypath='../fcs.blank'
 #mypath='../fcs.DHE'
-mypath='../fcs.DHR' 
-mypath='../fcs.ONDHR'
+#mypath='../fcs.DHR' 
+#mypath='../fcs.ONDHR'
 myalias = paste(substr(mypath,4,27), myp, mydate, sep='.'); print(myalias)
 myalias = str_replace( myalias, "/", "."); print(myalias)
       
